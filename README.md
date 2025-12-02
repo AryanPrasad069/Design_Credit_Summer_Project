@@ -1,4 +1,4 @@
-# Design_Credit_Summer_Project – Computational Fluid Dynamics (CFD)
+# Summer_Research_Project – Computational Fluid Dynamics (CFD)
 
 This repository contains the complete workflow of my CFD-based Design Credit Summer Project.  
 The project involves the numerical investigation of fluid flow using modern CFD methodologies to better understand the behavior of fluid mechanics under realistic engineering conditions.
